@@ -8,6 +8,6 @@ How to use it:
 4. Insert an empty **DIV** with the ID **"glossary-wrapper"** where you want the dictionary to appear.
 5. Change the file **style.css** according to your design.
 
-You can see it working at [Glossary With Tooltip – Ralf’s Portfolio](http://ralf.infinityfreeapp.com/glossary-with-tooltip/).
+You can see it working at [Glossary With Tooltip – Ralf’s Portfolio](http://ralf.infinityfreeapp.com/glossary-with-tooltips/).
 
 Requires a script that adds the class "clicked" to elements with the class "clickable" when clicked. I’ve used [my own](https://github.com/RalfGunterRotstein/ClickHandler).
